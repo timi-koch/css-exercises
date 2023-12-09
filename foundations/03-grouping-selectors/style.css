@@ -1,0 +1,16 @@
+.one {
+    background-color: rgb(00,00,00);
+    color: rgb(255,255,255);
+}
+
+.two {
+    background-color: yellow;
+}
+
+/* GROUPING SELECTORS 
+immer einen BEISTRICH dazwischen!! */
+.one,
+.two {
+    font-size: 28px;
+    font-family: Arial, Helvetica, Times New Roman, sans-serif;
+}

@@ -1,0 +1,22 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+/* EIGENTLICH FALSCH GELÖST: 
+Ich hätte IDs verwenden sollen, obwohl sie gemeint haben, dass IDs nicht verwendet werden sollten...
+Ergebnis ist gleich - ich werde auch in Zukunft mit CLASSES arbeiten!!!!
+*/
+.id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd1 {
+    font-size: 24px;
+}
+
+.id2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
